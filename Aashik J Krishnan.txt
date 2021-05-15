@@ -1,5 +1,5 @@
-name: Aashik J Krishnan (Aash Gates)
-college: East Point College of Engineering and Technology 
-degree: BE
-branch: ISE
-semester: 6 
+Name: Aashik J Krishnan (Aash Gates)
+College: East Point College of Engineering and Technology ,VirgoNagar,Bangalore-49
+Degree: BE
+Branch: ISE
+Semester: 6 
